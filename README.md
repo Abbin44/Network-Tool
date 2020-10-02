@@ -1,4 +1,4 @@
 # Network-Tool
-A network tool with multiple functions
+A network tool with a port scanner, a UDP flooder, and a web crawler.
 
 Dependant of JSoup
